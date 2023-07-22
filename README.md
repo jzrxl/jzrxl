@@ -6,7 +6,7 @@
 - 📫 How to reach me: jzrl478@gmail.com
 
  <p align="center">
-<a href="https://dhjzrl.carrd.co/"> More </a>
+<a href="https://dhjzrl.carrd.co/">  > More < </a>
    </p>
 </samp>
  </p>
