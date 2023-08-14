@@ -1,4 +1,4 @@
-![](https://tenor.com/view/groove-stickman-meme-dancing-gif-17755675)
+![ ](https://tenor.com/view/groove-stickman-meme-dancing-gif-17755675)
 
 <p align="center">
 <samp>
