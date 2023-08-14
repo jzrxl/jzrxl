@@ -1,7 +1,7 @@
-<p align="right">
+<p align="left">
 <samp>
 <br>
-- 👋 Hi, I’m @jzrxl
+Hi, I’m Jezrel
  </br>
 <p align="center">
 - 👀 I’m interested in: Coding, Editing and Music Making
