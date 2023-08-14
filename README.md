@@ -3,6 +3,7 @@
 <br>
 - 👋 Hi, I’m @jzrxl
  </br>
+<p align="center">
 - 👀 I’m interested in: Coding, Editing and Music Making
 <br>
 - 📫 How to reach me: jzrl478@gmail.com
