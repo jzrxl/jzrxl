@@ -1,6 +1,4 @@
-![ ](https://tenor.com/view/groove-stickman-meme-dancing-gif-17755675)
-
-<p align="center">
+<p align="right">
 <samp>
 <br>
 - 👋 Hi, I’m @jzrxl
