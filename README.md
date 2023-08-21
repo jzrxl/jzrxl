@@ -9,7 +9,7 @@
 I'm still a beginner at coding and currently aims on web development.  
   
 
-<div align="center">
+<div align="left">
 <img src="https://komarev.com/ghpvc/?username=jzrxl&&style=flat-square" align="center" />
 </div>  
   
