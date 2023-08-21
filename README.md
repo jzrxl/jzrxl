@@ -1,6 +1,7 @@
 <div align="center">
  <h1 align="center">Hi, I'm Jezrel 👋</h1>
-<p align="center">I'm 100% coding in mobile and these two are the tools I mainly use: <h4> <a href="https://vercel.com">Vercel</a><br> (For projects and checking for Deployment Errors)<br> <a href="https://github.dev">Github Workspace</a><br> (This is the only code editor that's a hassle-free for me)
+<p align="center">I'm 100% coding in mobile and these two are the tools I mainly use: <h4> <a href="https://vercel.com">Vercel</a><br> (For projects and checking for Deployment Errors)<br>
+ <a href="https://github.dev">Github Workspace</a><br> (This is the only code editor that's a hassle-free for me)
 </p>
 
   
