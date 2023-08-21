@@ -14,10 +14,8 @@ I'm still a beginner at coding and currently aims on web development.
 </div>  
   
 
-<a href="https://github.com/jzrxl" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/jezzabuu4" target="_blank">
+
+<p align="center"><h3>Social: </h3><a href="https://www.facebook.com/jezzabuu4" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
   
