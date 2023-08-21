@@ -9,7 +9,12 @@
 I'm still a beginner at coding and currently aims on web development. I also code on my websites 100% on my 32gb phone💀 (yes it's possible, websites below).
 
 ### Websites I used for web development:
-<p align="center"><a href="https://vercel.com">Vercel</a>
+<p align="center"><a href="https://vercel.com">Vercel</a><br>
+<p align="center">(For projects and to check errors in Deployment)<br>
+<br>
+<p align="center"><a href="https://github.com">Github</a><br>
+<p align="center">(For creating directories, files and uploading files)<br>
+<br>
 
 
 
