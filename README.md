@@ -7,17 +7,12 @@
 
 ### Glad to see you here! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> 
 I'm still a beginner at coding and currently aims on web development.  
-  
-
-<div align="left">
-<img src="https://komarev.com/ghpvc/?username=jzrxl&&style=flat-square" align="center" />
-</div>  
-  
 
 
 <p align="center"><h3>Social: </h3><a href="https://www.facebook.com/jezzabuu4" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>  
+</a>  <img src="https://komarev.com/ghpvc/?username=jzrxl&&style=flat-square" align="center" />
+</div>
 
 ---- 
 
