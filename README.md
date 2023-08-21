@@ -1,1 +1,1 @@
-![jzrxl's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jzrxl&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![jzrxl's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jzrxl&theme=merko&hide_border=true)
