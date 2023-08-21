@@ -1,6 +1,6 @@
 <div align="center">
  <h1 align="center">Hi, I'm Jezrel 👋</h1>
-<a href="https://github.com/jzrxl">![vibing stick](./assets/funny-stick.gif)</a>
+<p align="center">I'm 100% coding in mobile</p>
 
   
 
