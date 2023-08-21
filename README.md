@@ -9,7 +9,7 @@
 I'm still a beginner at coding and currently aims on web development. I also code on my websites 100% on my 32gb phone💀.
 
 ### Websites I used for web development:
-<p align="center">![Vercel](https://vercel.com)
+<p align="center">[Vercel](https://vercel.com)
 
 
 
