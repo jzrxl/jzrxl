@@ -41,3 +41,6 @@ I'm still a beginner at coding and currently aims on web development. I also cod
 </div>
 
 <br/>
+
+
+![jzrxl's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jzrxl&theme=highcontrast&hide_border=false)
