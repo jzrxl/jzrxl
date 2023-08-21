@@ -6,7 +6,10 @@
 
 
 ### Glad to see you here! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> 
-I'm still a beginner at coding and currently aims on web development.  
+I'm still a beginner at coding and currently aims on web development. I also code on my websites 100% on my 32gb phone💀.
+
+### Websites I used for web development:
+<p align="center">![Vercel](https://vercel.com)
 
 
 
@@ -20,7 +23,8 @@ I'm still a beginner at coding and currently aims on web development.
 
 
 <p align="center"><h3>Languages/Frameworks I use:
-
+<br>
+<br>
 <div align="center">  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>︱ 
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>︱  
