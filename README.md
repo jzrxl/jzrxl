@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>, I'm Jezrel</h1>
+<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I'm Jezrel</h1>
 <h3 align="center">I'm a beginner at coding and currently aims on web development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jzrxl&label=Views&color=689e68&style=flat" alt="jzrxl" /> </p>
