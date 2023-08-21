@@ -1,6 +1,6 @@
 <div align="center">
  <h1 align="center">Hi, I'm Jezrel 👋</h1>
-![vibe](assets/funny-stick.gif)
+![vibe](https://github.com/jzrxl/jzrxl/blob/main/assets/funny-stick.gif)
 
   
 
