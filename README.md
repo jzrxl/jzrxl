@@ -18,7 +18,8 @@ I'm still a beginner at coding and currently aims on web development.
 <p align="center"><h3>Social: </h3><a href="https://www.facebook.com/jezzabuu4" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
-  
+
+---- 
 
 <div align="center">  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
