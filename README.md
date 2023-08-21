@@ -3,13 +3,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jzrxl&label=Views&color=689e68&style=flat" alt="jzrxl" /> </p>
 
-- 🔭 I’m currently working on [Interpretu](https://interpretu.vercel.app)
+- 🔭 I’m currently working on: [Interpretu](https://interpretu.vercel.app)
 
-- 🤓 I’m currently learning **Vue, Python, and Angular**
+- 🤓 I’m currently learning: **Vue, Python, and Angular**
 
-- 👨‍💻 Here's my blog website [re:c0smos](https://rec0smos.vercel.app)
+- 👨‍💻 Here's my blog website: [re:c0smos](https://rec0smos.vercel.app)
 
-- 💡 Fun fact **I'm broke**
+- 💡 Fun fact: **I'm broke**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
