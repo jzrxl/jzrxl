@@ -10,10 +10,10 @@ I'm still a beginner at coding and currently aims on web development. I 100% cod
 
 ### Websites I used for web development:
 <p align="center"><a href="https://vercel.com">Vercel</a><br>
-<p align="center">(For projects and to check errors in Deployment)<br>
+(For projects and to check errors in Deployment)<br>
 <br>
 <p align="center"><a href="https://github.com">Github</a><br>
-<p align="center">(For creating directories, files and uploading files)<br>
+(For creating directories, files and uploading files)<br>
 <br>
 <p align="center"><a href="https://github.dev/github/dev">Github Workspace</a><br>
 (For checking problems, terminal, building dependencies etc.)<br>
