@@ -18,7 +18,8 @@ I'm still a beginner at coding and currently aims on web development. I 100% cod
 <p align="center"><a href="https://github.dev/github/dev">Github Workspace</a><br>
 (For checking problems, terminal, building dependencies etc.)<br>
 <br>
-### More About Me
+----
+### More About Me:
 Working on: <a href="https://interpretu.vercel.app">🗣️ Interpretu<a/><br>
 
 
