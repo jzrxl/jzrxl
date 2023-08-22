@@ -21,7 +21,9 @@ I'm still a beginner at coding and currently aims on web development. I 100% cod
 ----
 <h3>More About Me:</h3>
 Working on: <a href="https://interpretu.vercel.app">🗣️ Interpretu<a/> (No idea what I'll do next)<br>
-Website: <a href="https://rec0smos.vercel.app">re:c0smos</a>
+<br>
+Personal Website: <a href="https://rec0smos.vercel.app">re:c0smos</a> (Includes a blog page)<br>
+<br>
 
 
 ----
