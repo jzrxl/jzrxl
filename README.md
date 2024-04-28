@@ -6,7 +6,7 @@
 ----
 
 ### Glad to see you here! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> 
-I'm still a beginner at coding and currently aims on web development. I 100% code on my 32gb phone💀(yes it's possible but some websites are incompatible for mobile, websites below).
+I'm still a beginner at coding and currently aims on web development. I 100% code on my  ̶3̶2̶g̶b̶ 128gb phone💀(yes it's possible but some websites are incompatible for mobile, websites below).
 
 ### Websites I used for web development:
 <p align="center"><a href="https://vercel.com">Vercel</a><br>
