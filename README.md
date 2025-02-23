@@ -7,6 +7,9 @@
 
 ### Glad to see you here! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> 
 I'm still a beginner at coding and currently aims on web development. I 100% code on my 3̶2̶g̶b̶ 128gb phone💀(yes it's possible but some websites are incompatible for mobile, websites below).
+<br>
+I finally had a PC to work on
+<br>
 
 ### Websites I used for web development:
 <p align="center"><a href="https://vercel.com">Vercel</a><br>
@@ -22,7 +25,7 @@ I'm still a beginner at coding and currently aims on web development. I 100% cod
 <h3>More About Me:</h3>
 Working on: <a href="https://interpretu.vercel.app">🗣️ Interpretu<a/> (No idea what I'll do next)<br>
 <br>
-Personal Website: <a href="https://youtu.be/dQw4w9WgXcQ">Hi from discord whahahahahaha</a> (Includes a blog page)<br>
+Personal Website: <a href="https://rec0smos.vercel.app">🌌rec0smos</a> (Includes a blog page, can't be accessed atm)<br>
 <br>
 
 
