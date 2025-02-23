@@ -30,7 +30,7 @@ Personal Website: <a href="https://rec0smos.vercel.app">🌌rec0smos</a> (Includ
 
 
 ----
-<p align="center"><h3>Social: </h3><a href="https://youtu.be/dQw4w9WgXcQ" target="_blank">
+<p align="center"><h3>Social: </h3><a href="https://www.facebook.com/jezzabuu4" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 
