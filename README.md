@@ -23,9 +23,9 @@ I finally had a PC to work on
 <br>
 ----
 <h3>More About Me:</h3>
-Working on: <a href="https://interpretu.vercel.app">🗣️ Interpretu<a/> (No idea what I'll do next)<br>
+Working on: <a href="https://interpretu.vercel.app">🗣️ Interpretu<a/> (Abandoned)<br>
 <br>
-Personal Website: <a href="https://rec0smos.vercel.app">🌌rec0smos</a> (Includes a blog page, can't be accessed atm)<br>
+Personal Website: <a href="https://rec0smos.vercel.app">🌌rec0smos</a> (Includes a blog page, Abandoned)<br>
 <br>
 
 
