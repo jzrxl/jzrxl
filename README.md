@@ -53,7 +53,6 @@ Personal Website: <a href="https://rec0smos.vercel.app">🌌rec0smos</a> (Includ
 
 <br/>
 
-<p align="center">
 ![jzrxl's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jzrxl&theme=highcontrast&hide_border=false)
 
 
