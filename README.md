@@ -23,6 +23,7 @@ I finally had a PC to work on
 <br>
 ----
 <h3>More About Me:</h3>
+Active Portfolio: <a href="https://jezrelcrd.vercel.app">My Portfolio (w/ Resume)<a/>
 Working on: <a href="https://interpretu.vercel.app">🗣️ Interpretu<a/> (Abandoned)<br>
 <br>
 Personal Website: <a href="https://rec0smos.vercel.app">🌌rec0smos</a> (Includes a blog page, Abandoned)<br>
