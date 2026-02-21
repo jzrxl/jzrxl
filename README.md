@@ -20,7 +20,7 @@ I finally had a PC to work on ദ്ദി╥ ᴗ ╥)
 
 ---
 
-### 𖦹 Projects
+### 🗁 Projects
 
 <pre><code><strong>.</strong>
 ├── <strong>Active</strong>
