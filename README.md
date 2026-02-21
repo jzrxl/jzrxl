@@ -9,27 +9,11 @@
 I'm somewhat an intermmediate at coding and currently aims on web development. I 100% code on my 3̶2̶g̶b̶ 128gb phone💀(yes it's possible but some websites are incompatible for mobile, websites below).
 <br>
 I finally had a PC to work on
-<br>
+<br>### 𖦹 Project Structure & Links
 
-### 𖦹 Websites I used for web development:
-
-> [!TIP]
-> **[Vercel](https://vercel.com)**
-> *Used for hosting projects and debugging deployment errors.*
->
-> **[GitHub](https://github.com)**
-> *Used for version control, creating directories, and file storage.*
->
-> **[GitHub Workspace](https://github.dev/github/dev)**
-> *Used as a cloud IDE for checking problems, terminal work, and building dependencies.*
-
----
-
-### 𖦹 Projects
-
-* **[Active Portfolio](https://jezrelcrd.vercel.app)** (w/ Resume)
-* **[Interpretu](https://interpretu.vercel.app)** (Abandoned)
-* **[rec0smos](https://rec0smos.vercel.app)** (Includes a blog page, Abandoned; it broke)
+&nbsp;&nbsp;**root/** &nbsp;&nbsp;├── 🌐 **Ecosystem** &nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├── [Vercel](https://vercel.com) — *Deployment & Errors* &nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├── [GitHub](https://github.com) — *Directories & Uploads* &nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└── [GitHub Workspace](https://github.dev/github/dev) — *Terminal & Deps* &nbsp;&nbsp;│  
+&nbsp;&nbsp;├── 🚀 **Active** &nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└── [Active Portfolio](https://jezrelcrd.vercel.app) — *(w/ Resume)* &nbsp;&nbsp;│  
+&nbsp;&nbsp;└── 📁 **Archives** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── [Interpretu](https://interpretu.vercel.app) — *(Abandoned)* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── [rec0smos](https://rec0smos.vercel.app) — *(Broken; Blog page)* ---
 
 
 ---- 
