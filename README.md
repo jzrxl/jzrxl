@@ -45,7 +45,7 @@ I finally had a PC to work on ദ്ദി╥ ᴗ ╥)
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
 </div>
 <br>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jzrxl&theme=dark-smoky" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jzrxl&theme=dark-smoky" alt="GitHub Streak" /></a><br>
 <div align="center">
   <a href="https://www.facebook.com/jezzabuu4" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" /><br>
