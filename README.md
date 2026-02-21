@@ -10,8 +10,8 @@ I'm somewhat an intermmediate at coding and currently aims on web development. I
 <br>
 I finally had a PC to work on
 <br>
-
-### Websites I used for web development:
+<div align="center">
+### Websites I used for web development:</div>
 <p align="center"><a href="https://vercel.com">Vercel</a><br>
 (For projects and to check errors in Deployment)<br>
 <br>
@@ -33,8 +33,8 @@ Personal Website: <a href="https://rec0smos.vercel.app">🌌rec0smos</a> (Includ
 
 ---- 
 
-
-<p align="center"><h3>Languages/Frameworks I use:
+<div align="center">
+<p align="center"><h3>Languages/Frameworks I use:</div>
 <br>
 <br>
 <div align="center">  
