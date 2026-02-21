@@ -11,7 +11,7 @@ I'm somewhat an intermmediate at coding and currently aims on web development. I
 I finally had a PC to work on
 <br>
 
-<h3>Websites I used for web development:</h3>
+<h3>𖦹 Websites I used for web development:</h3>
 <a href="https://vercel.com">Vercel</a><br>
 (For projects and to check errors in Deployment)<br>
 <br>
@@ -22,7 +22,7 @@ I finally had a PC to work on
 (For checking problems, terminal, building dependencies etc.)<br>
 <br>
 ----
-<h3>Projects</h3>
+<h3>𖦹 Projects</h3>
 <a href="https://jezrelcrd.vercel.app">Active Portfolio<a/> (w/ Resume)<br>
 <br>
 <a href="https://interpretu.vercel.app">Interpretu<a/> (Abandoned)<br>
