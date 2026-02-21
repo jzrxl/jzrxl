@@ -45,7 +45,7 @@ I finally had a PC to work on ദ്ദി╥ ᴗ ╥)
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
 </div>
 <br>
-![jzrxl's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jzrxl&theme=highcontrast&hide_border=false)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jzrxl&theme=dark-smoky)](https://git.io/streak-stats)
 <br>
 
 <div align="center">
