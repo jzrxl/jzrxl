@@ -11,7 +11,7 @@ I'm somewhat an intermmediate at coding and currently aims on web development. I
 I finally had a PC to work on
 <br>
 
-<h3>Websites I used for web development:</h3><br>
+<h3>Websites I used for web development:</h3>
 <a href="https://vercel.com">Vercel</a><br>
 (For projects and to check errors in Deployment)<br>
 <br>
