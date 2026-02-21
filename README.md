@@ -54,7 +54,7 @@ Personal Website: <a href="https://rec0smos.vercel.app">🌌rec0smos</a> (Includ
 
 <div align="center">
   <a href="https://www.facebook.com/jezzabuu4" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" /><br>
 </a>
   <img src="https://komarev.com/ghpvc/?username=jzrxl&&style=flat-square" align="center" />
 </div>
