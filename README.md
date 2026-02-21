@@ -8,7 +8,7 @@
 ### Glad to see you here! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> 
 I'm somewhat an intermmediate at coding and currently aims on web development. I 100% code on my 3̶2̶g̶b̶ 128gb phone💀(yes it's possible but some websites are incompatible for mobile, websites below).
 <br>
-I finally had a PC to work on
+I finally had a PC to work on ദ്ദി╥ ᴗ ╥)
 <br>
 
 ### 𖦹 Websites I used for web development:
