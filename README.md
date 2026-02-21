@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1094" height="387" alt="image" src="https://github.com/user-attachments/assets/8a76b37a-71bc-4646-b37a-f0a29d4db704" /><div align="center">
 <img src="https://media2.giphy.com/media/VHFT6zk63ZPQ9bzX4U/giphy.gif?cid=6c09b952csakvu98o6iphu45g82j1wsvu46jj19pgx4vi61h&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" align="center" height="" width="" />
 </div>    
   
@@ -9,11 +9,19 @@
 I'm somewhat an intermmediate at coding and currently aims on web development. I 100% code on my 3̶2̶g̶b̶ 128gb phone💀(yes it's possible but some websites are incompatible for mobile, websites below).
 <br>
 I finally had a PC to work on
-<br>### 𖦹 Project Structure & Links
+<br>
 
-&nbsp;&nbsp;**root/** &nbsp;&nbsp;├── 🌐 **Ecosystem** &nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├── [Vercel](https://vercel.com) — *Deployment & Errors* &nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├── [GitHub](https://github.com) — *Directories & Uploads* &nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└── [GitHub Workspace](https://github.dev/github/dev) — *Terminal & Deps* &nbsp;&nbsp;│  
-&nbsp;&nbsp;├── 🚀 **Active** &nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└── [Active Portfolio](https://jezrelcrd.vercel.app) — *(w/ Resume)* &nbsp;&nbsp;│  
-&nbsp;&nbsp;└── 📁 **Archives** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── [Interpretu](https://interpretu.vercel.app) — *(Abandoned)* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── [rec0smos](https://rec0smos.vercel.app) — *(Broken; Blog page)* ---
+### 𖦹 Project Structure & Links
+
+| Directory | Resource & Description |
+| :--- | :--- |
+| **root/** | |
+| ├── 🌐 **Ecosystem** | [Vercel](https://vercel.com) — *Deployment & Errors* |
+| │&nbsp;&nbsp;&nbsp;├── | [GitHub](https://github.com) — *Directories & Uploads* |
+| │&nbsp;&nbsp;&nbsp;└── | [GitHub Workspace](https://github.dev/github/dev) — *Terminal & Deps* |
+| ├── 🚀 **Active** | [Active Portfolio](https://jezrelcrd.vercel.app) — *(w/ Resume)* |
+| └── 📁 **Archives** | [Interpretu](https://interpretu.vercel.app) — *(Abandoned)* |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── | [rec0smos](https://rec0smos.vercel.app) — *(Broken; Blog page)* |
 
 
 ---- 
