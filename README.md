@@ -27,7 +27,7 @@ I finally had a PC to work on
 <br>
 <a href="https://interpretu.vercel.app">Interpretu<a/> (Abandoned)<br>
 <br>
-<a href="https://rec0smos.vercel.app">🌌rec0smos</a> (Includes a blog page, Abandoned; it broke)<br>
+<a href="https://rec0smos.vercel.app">rec0smos</a> (Includes a blog page, Abandoned; it broke)<br>
 <br>
 
 
