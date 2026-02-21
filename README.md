@@ -13,22 +13,22 @@ I finally had a PC to work on
 
 ### 𖦹 Websites I used for web development:
 
-**root/**<br>
-└── 🌐 **Ecosystem**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;├── [Vercel](https://vercel.com) — *Deployment & Errors*<br>
-&nbsp;&nbsp;&nbsp;&nbsp;├── [GitHub](https://github.com) — *Directories & Uploads*<br>
-&nbsp;&nbsp;&nbsp;&nbsp;└── [GitHub Workspace](https://github.dev/github/dev) — *Terminal & Deps*<br>
+<pre><code><strong>root/</strong>
+└── 🌐 <strong>Ecosystem</strong>
+    ├── <a href="https://vercel.com">Vercel</a> — <em>Deployment & Errors</em>
+    ├── <a href="https://github.com">GitHub</a> — <em>Directories & Uploads</em>
+    └── <a href="https://github.dev/github/dev">GitHub Workspace</a> — <em>Terminal & Deps</em></code></pre>
 
 ---
 
 ### 𖦹 Projects
 
-**root/**<br>
-├── 🚀 **Active**<br>
-│&nbsp;&nbsp;&nbsp;└── [Active Portfolio](https://jezrelcrd.vercel.app) — *(w/ Resume)*<br>
-└── 📁 **Archives**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;├── [Interpretu](https://interpretu.vercel.app) — *(Abandoned)*<br>
-&nbsp;&nbsp;&nbsp;&nbsp;└── [rec0smos](https://rec0smos.vercel.app) — *(Broken; Blog page)*<br>
+<pre><code><strong>root/</strong>
+├── 🚀 <strong>Active</strong>
+│   └── <a href="https://jezrelcrd.vercel.app">Active Portfolio</a> — <em>(w/ Resume)</em>
+└── 📁 <strong>Archives</strong>
+    ├── <a href="https://interpretu.vercel.app">Interpretu</a> — <em>(Abandoned)</em>
+    └── <a href="https://rec0smos.vercel.app">rec0smos</a> — <em>(Broken; Blog page)</em></code></pre>
 
 ---- 
 
