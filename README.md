@@ -35,7 +35,6 @@ I finally had a PC to work on
 
 <div align="center">
 <p align="center"><h3>Languages/Frameworks I use:</div>
-<br>
 <div align="center">  
 <div align="center">  
 <a href="https://www.astro.build/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/astro.svg" alt="Astro" height="50" /></a>
