@@ -22,7 +22,7 @@ I finally had a PC to work on
 (For checking problems, terminal, building dependencies etc.)<br>
 <br>
 ----
-<h3>More About Me:</h3>
+<h3>Projects</h3>
 <a href="https://jezrelcrd.vercel.app">Active Portfolio<a/> (w/ Resume)<br>
 <br>
 <a href="https://interpretu.vercel.app">Interpretu<a/> (Abandoned)<br>
