@@ -11,24 +11,25 @@ I'm somewhat an intermmediate at coding and currently aims on web development. I
 I finally had a PC to work on
 <br>
 
-<h3>𖦹 Websites I used for web development:</h3>
-<a href="https://vercel.com">Vercel</a><br>
-(For projects and to check errors in Deployment)<br>
-<br>
-<a href="https://github.com">Github</a><br>
-(For creating directories, files and uploading files)<br>
-<br>
-<a href="https://github.dev/github/dev">Github Workspace</a><br>
-(For checking problems, terminal, building dependencies etc.)<br>
-<br>
-----
-<h3>𖦹 Projects</h3>
-<a href="https://jezrelcrd.vercel.app">Active Portfolio<a/> (w/ Resume)<br>
-<br>
-<a href="https://interpretu.vercel.app">Interpretu<a/> (Abandoned)<br>
-<br>
-<a href="https://rec0smos.vercel.app">rec0smos</a> (Includes a blog page, Abandoned; it broke)<br>
-<br>
+### 𖦹 Websites I used for web development:
+
+> [!TIP]
+> **[Vercel](https://vercel.com)**
+> *Used for hosting projects and debugging deployment errors.*
+>
+> **[GitHub](https://github.com)**
+> *Used for version control, creating directories, and file storage.*
+>
+> **[GitHub Workspace](https://github.dev/github/dev)**
+> *Used as a cloud IDE for checking problems, terminal work, and building dependencies.*
+
+---
+
+### 𖦹 Projects
+
+* **[Active Portfolio](https://jezrelcrd.vercel.app)** (w/ Resume)
+* **[Interpretu](https://interpretu.vercel.app)** (Abandoned)
+* **[rec0smos](https://rec0smos.vercel.app)** (Includes a blog page, Abandoned; it broke)
 
 
 ---- 
