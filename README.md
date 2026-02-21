@@ -11,18 +11,24 @@ I'm somewhat an intermmediate at coding and currently aims on web development. I
 I finally had a PC to work on
 <br>
 
-### 𖦹 Project Structure & Links
+### 𖦹 Websites I used for web development:
 
-| Directory | Resource & Description |
-| :--- | :--- |
-| **root/** | |
-| ├── 🌐 **Ecosystem** | [Vercel](https://vercel.com) — *Deployment & Errors* |
-| │&nbsp;&nbsp;&nbsp;├── | [GitHub](https://github.com) — *Directories & Uploads* |
-| │&nbsp;&nbsp;&nbsp;└── | [GitHub Workspace](https://github.dev/github/dev) — *Terminal & Deps* |
-| ├── 🚀 **Active** | [Active Portfolio](https://jezrelcrd.vercel.app) — *(w/ Resume)* |
-| └── 📁 **Archives** | [Interpretu](https://interpretu.vercel.app) — *(Abandoned)* |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── | [rec0smos](https://rec0smos.vercel.app) — *(Broken; Blog page)* |
+**root/**<br>
+└── 🌐 **Ecosystem**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;├── [Vercel](https://vercel.com) — *Deployment & Errors*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;├── [GitHub](https://github.com) — *Directories & Uploads*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;└── [GitHub Workspace](https://github.dev/github/dev) — *Terminal & Deps*<br>
 
+---
+
+### 𖦹 Projects
+
+**root/**<br>
+├── 🚀 **Active**<br>
+│&nbsp;&nbsp;&nbsp;└── [Active Portfolio](https://jezrelcrd.vercel.app) — *(w/ Resume)*<br>
+└── 📁 **Archives**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;├── [Interpretu](https://interpretu.vercel.app) — *(Abandoned)*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;└── [rec0smos](https://rec0smos.vercel.app) — *(Broken; Blog page)*<br>
 
 ---- 
 
