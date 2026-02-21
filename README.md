@@ -27,7 +27,7 @@ I finally had a PC to work on ദ്ദി╥ ᴗ ╥)
 │   └── <a href="https://jezrelcrd.vercel.app">Active Portfolio</a> — <em>(w/ Resume)</em>
 └── <strong>Archives</strong>
     ├── <a href="https://interpretu.vercel.app">Interpretu</a> — <em>(Abandoned)</em>
-    └── <a href="https://rec0smos.vercel.app">rec0smos</a> — <em>(Broken; Blog page)</em></code></pre>
+    └── <a href="https://rec0smos.vercel.app">rec0smos</a> — <em>(Broken; w/ Blog page)</em></code></pre>
 
 ---- 
 
