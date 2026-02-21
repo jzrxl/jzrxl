@@ -10,15 +10,15 @@ I'm somewhat an intermmediate at coding and currently aims on web development. I
 <br>
 I finally had a PC to work on
 <br>
-<div align="center">
-<h3>Websites I used for web development:</div><br>
-<p align="center"><a href="https://vercel.com">Vercel</a><br>
+
+<h3>Websites I used for web development:<br>
+<a href="https://vercel.com">Vercel</a><br>
 (For projects and to check errors in Deployment)<br>
 <br>
-<p align="center"><a href="https://github.com">Github</a><br>
+<a href="https://github.com">Github</a><br>
 (For creating directories, files and uploading files)<br>
 <br>
-<p align="center"><a href="https://github.dev/github/dev">Github Workspace</a><br>
+<a href="https://github.dev/github/dev">Github Workspace</a><br>
 (For checking problems, terminal, building dependencies etc.)<br>
 <br>
 ----
