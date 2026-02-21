@@ -15,10 +15,9 @@ I finally had a PC to work on ദ്ദി╥ ᴗ ╥)
 ### 𖦹 Websites I used for web development:
 
 <pre><code><strong>root/</strong>
-└── 🌐 <strong>Ecosystem</strong>
-    ├── <a href="https://vercel.com">Vercel</a> — <em>Host, Deployment & Error Checking</em>
-    ├── <a href="https://github.com">GitHub</a> — <em>Directories & Uploads</em>
-    └── <a href="https://github.dev/github/dev">GitHub Workspace</a> — <em>Terminal & Deps</em></code></pre>
+<a href="https://vercel.com">Vercel</a> — <em>Host, Deployment & Error Checking</em>
+<a href="https://github.com">GitHub</a> — <em>Directories & Uploads</em>
+<a href="https://github.dev/github/dev">GitHub Workspace</a> — <em>Terminal & Deps</em></code></pre>
 
 ---
 
