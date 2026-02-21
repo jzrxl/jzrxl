@@ -8,6 +8,7 @@
 ### Glad to see you here! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> 
 I'm somewhat an intermmediate at coding and currently aims on web development. I 100% code on my 3̶2̶g̶b̶ 128gb phone💀(yes it's possible but some websites are incompatible for mobile, websites below).
 <br>
+<br>
 I finally had a PC to work on ദ്ദി╥ ᴗ ╥)
 <br>
 
@@ -43,8 +44,7 @@ I finally had a PC to work on ദ്ദി╥ ᴗ ╥)
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
 </div>
-<br/>
-
+<br>
 ![jzrxl's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jzrxl&theme=highcontrast&hide_border=false)
 
 
