@@ -27,7 +27,7 @@ I finally had a PC to work on ദ്ദി╥ ᴗ ╥)
   └── <a href="https://jezrelcrd.vercel.app">Active Portfolio</a> — <em>(w/ Resume)</em>
 <strong>Archives</strong>
   ├── <a href="https://interpretu.vercel.app">Interpretu</a> — <em>(Abandoned)</em>
-  └── <em></em>and many more! (private repos)</em></code></pre>
+  └── <em>and many more! (private repos)</em></code></pre>
 
 ---- 
 
