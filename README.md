@@ -46,7 +46,6 @@ I finally had a PC to work on ദ്ദി╥ ᴗ ╥)
 </div>
 <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jzrxl&theme=dark-smoky)](https://git.io/streak-stats)
-<br>
 
 <div align="center">
   <a href="https://www.facebook.com/jezzabuu4" target="_blank">
