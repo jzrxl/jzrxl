@@ -32,7 +32,7 @@ I finally had a PC to work on ദ്ദി╥ ᴗ ╥)
 ---- 
 
 <div align="center">
-<p align="center"><h3>My Tech Stack:</div>
+<p align="center"><h3>My Tech Stack <em>(above included)</em>:</div>
 <div align="center">  
 <div align="center">  
 <a href="https://www.astro.build/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/astro.svg" alt="Astro" height="50" /></a>
