@@ -46,10 +46,10 @@ I'm a self-taught dev from the Philippines, currently focused on web development
 <p>📫 Reach me at —</p>
 <div>
   <a href="https://www.facebook.com/jezzabuu4" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=Facebook&message=&color=1877F2&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" style="margin-bottom: 5px;" />
   </a>
   <a href="https://www.linkedin.com/in/jezrelpalabrica/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
   </a>
 </div>
 <br />
