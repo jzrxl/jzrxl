@@ -53,5 +53,5 @@ I'm a self-taught dev from the Philippines, currently focused on web development
   </a>
 </div>
 <br />
-<img src="https://<your-project>.deno.net/badge/jzrxl?color=blue" alt="Profile views" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fviews.igorkowalczyk.dev%2Fapi%2Fjson%2Fjzrxl&query=%24.views&label=Profile%20Views&style=for-the-badge&color=1877F2" alt="Profile views" />
 </div>
