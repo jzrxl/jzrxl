@@ -53,5 +53,5 @@ I'm a self-taught dev from the Philippines, currently focused on web development
   </a>
 </div>
 <br />
-<img src="https://komarev.com/ghpvc/?username=jzrxl&style=flat-square" alt="Profile views" />
+<img src="https://<your-project>.deno.net/badge/jzrxl?color=blue" alt="Profile views" />
 </div>
