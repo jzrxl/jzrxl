@@ -1,21 +1,21 @@
 <div align="center">
-<img src="https://media2.giphy.com/media/VHFT6zk63ZPQ9bzX4U/giphy.gif?cid=6c09b952csakvu98o6iphu45g82j1wsvu46jj19pgx4vi61h&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" align="center" height="" width="" />
+<img src="https://media2.giphy.com/media/VHFT6zk63ZPQ9bzX4U/giphy.gif" alt="" width="100%" />
 </div>
 
 ---
 
-### Glad to see you here! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
+### Glad to see you here! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" />
 
 I'm a self-taught dev from the Philippines, currently focused on web development and looking for remote work. I started coding entirely on my phone — now I've got a proper setup and no intentions of slowing down.
 
-<br>
+<br />
 
 ### 𖦹 Tools I use:
 <pre><code><strong>.</strong>
-<a href="https://vercel.com">Vercel</a>         — <em>Hosting & Deployment</em>
-<a href="https://github.com">GitHub</a>         — <em>Version Control</em>
-<a href="https://acode.app">Acode</a>          — <em>Mobile Code Editor</em>
-<a href="https://www.linux.org">Linux (Arch)</em>  — <em>Daily Driver OS</em></code></pre>
+<a href="https://vercel.com">Vercel</a>          — <em>Hosting &amp; Deployment</em>
+<a href="https://github.com">GitHub</a>          — <em>Version Control</em>
+<a href="https://acode.app">Acode</a>           — <em>Mobile Code Editor</em>
+<a href="https://archlinux.org">Arch Linux</a>      — <em>Daily Driver OS</em></code></pre>
 
 ---
 
@@ -23,9 +23,9 @@ I'm a self-taught dev from the Philippines, currently focused on web development
 
 <pre><code><strong>.</strong>
 <strong>Active</strong>
-  └── <a href="https://jezrelcrd.vercel.app">Portfolio</a> — <em>(w/ Resume)</em>
+  └── <a href="https://jezrelcrd.vercel.app" target="_blank">Portfolio</a> — <em>(w/ Resume)</em>
 <strong>Archives</strong>
-  ├── <a href="https://interpretu.vercel.app">Interpretu</a> — <em>(Abandoned)</em>
+  ├── <a href="https://interpretu.vercel.app" target="_blank">Interpretu</a> — <em>(Abandoned)</em>
   └── <em>and many more collecting dust in private repos 💀</em></code></pre>
 
 ---
@@ -37,20 +37,21 @@ I'm a self-taught dev from the Philippines, currently focused on web development
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" height="50" /></a>
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
 </div>
-<br>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jzrxl&theme=dark-smoky" alt="GitHub Streak" /></a>
-<br><br>
+<br />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jzrxl&theme=dark-smoky&hide_border=true" alt="GitHub Streak" /></a>
+<br /><br />
+<p>📫 Reach me at —</p>
 <div>
   <a href="https://www.facebook.com/jezzabuu4" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/static/v1?label=Facebook&message=&color=1877F2&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" style="margin-bottom: 5px;" />
   </a>
   <a href="https://www.linkedin.com/in/jezrelpalabrica/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
   </a>
 </div>
-<br>
-<img src="https://komarev.com/ghpvc/?username=jzrxl&style=flat-square" align="center" />
+<br />
+<img src="https://komarev.com/ghpvc/?username=jzrxl&style=flat-square" alt="Profile views" />
 </div>
